@@ -16,7 +16,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/your_username/your_repository.git
+git clone https://github.com/anshuman2197/Blog-Task.git
 cd your_repository
 Create a Virtual Environment
 
